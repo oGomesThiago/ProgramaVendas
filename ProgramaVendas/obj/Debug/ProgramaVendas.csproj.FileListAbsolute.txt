@@ -1,0 +1,14 @@
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.csproj.AssemblyReference.cache
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.csproj.SuggestedBindingRedirects.cache
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.Form1.resources
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.Properties.Resources.resources
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.csproj.GenerateResource.cache
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.csproj.CoreCompileInputs.cache
+D:\banco\ProgramaVendas\ProgramaVendas\bin\Debug\ProgramaVendas.exe.config
+D:\banco\ProgramaVendas\ProgramaVendas\bin\Debug\ProgramaVendas.exe
+D:\banco\ProgramaVendas\ProgramaVendas\bin\Debug\ProgramaVendas.pdb
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.exe
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.pdb
+D:\banco\ProgramaVendas\ProgramaVendas\bin\Debug\deposito.accdb
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.Form2.resources
+D:\banco\ProgramaVendas\ProgramaVendas\obj\Debug\ProgramaVendas.Form3.resources
